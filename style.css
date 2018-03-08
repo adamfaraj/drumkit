@@ -1,6 +1,11 @@
+html{
+    height:100%;
+}
 body{
     background-image: url('images/main.jpg');
     font-family: 'Fugaz One', cursive;
+    background-position: center;
+    background-repeat: no-repeat;
    }
 .title{
     text-align: center;
@@ -29,7 +34,7 @@ body{
     margin: 0;
 }
 .button__sound{
-    color: #303b3e;
+    color: #d79841;;
     margin-bottom: 0;
 }
 .button--active{
